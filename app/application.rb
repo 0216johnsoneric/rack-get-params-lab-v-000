@@ -36,6 +36,8 @@ class Application
   def add(env)
     resp = Rack::Response.new
     req = Rack::Request.new(env)
+
+    
   end
 
     # else
