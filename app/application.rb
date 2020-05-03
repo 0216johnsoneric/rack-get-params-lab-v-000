@@ -35,6 +35,8 @@ class Application
 
   def add()
 
+  end
+
     # else
     #   resp.write "Your cart is empty"
 
