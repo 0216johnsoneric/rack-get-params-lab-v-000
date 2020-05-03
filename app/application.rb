@@ -33,7 +33,7 @@ class Application
     resp.finish
   end
 
-
+  def add()
 
     # else
     #   resp.write "Your cart is empty"
